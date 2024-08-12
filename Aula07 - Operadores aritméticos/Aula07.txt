@@ -1,0 +1,20 @@
+#Operadores númericos
+
++ -> ADIÇÃO
+- -> SUBTRAÇÃO
+* -> MULTIPLICAÇÃO
+/ -> DIVISÃO
+** -> POTÊNCIA
+// -> DIVISÃO INTEIRA
+% -> RESTO DA DIVISÃO
+
+
+* Para utilizar o simbolo de igual no python é necessario utilziar de uma forma duplicada ou seja "==".
+Em python apenas um simbolo de igual "=" representa o valor "recebe" ou seja se eu fizer "A = 6", quer dizer que a variavel A recebe o valor 6, então sempre que eu utilizar essa variavel nos meus códigos ela virá com o valor "6".
+
+#Ordem de precedência
+
+1 -> ()
+2 -> **
+3 -> *, /, // e %
+4 -> + e -
