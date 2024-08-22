@@ -1,6 +1,6 @@
 preco = float(input("Qual o valor do produtor? : "))
 
-novoPreco = (5 / 100) * preco
+novoPreco = preco - (preco * 5 / 100)
 
 
-print("O valor desse produto com desconto de 5% é de {}".format(novoPreco))
+print("O valor desse produto com desconto de 5% é de R${}".format(novoPreco))
