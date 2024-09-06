@@ -9,4 +9,5 @@ cosseno = math.cos(angulo_radianos)
 tangente = math.tan(angulo_radianos)
 
 print(f"Seno de {angulo_graus}°: {seno:.4f}")
-print(f"Cosseno de {angulo}")
+print(f"Cosseno de {angulo_graus}°: {cosseno:.4f}")
+print(f"Tangente de {angulo_graus}°: {tangente:.4f}")
